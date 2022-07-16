@@ -1,0 +1,31 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=UMIDIGI
+ro.product.bootimage.device=BISON_GT2
+ro.product.bootimage.manufacturer=UMIDIGI
+ro.product.bootimage.model=RP03
+ro.product.bootimage.name=BISON_GT2
+ro.bootimage.build.date=Mon Jul 11 17:08:48 CST 2022
+ro.bootimage.build.date.utc=1657530528
+ro.bootimage.build.fingerprint=UMIDIGI/BISON_GT2/BISON_GT2:12/SP1A.210812.016/1650502913:user/release-keys
+ro.bootimage.build.id=SP1A.210812.016
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=1650502913
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+
+# begin fota properties
+ro.fota.platform=MTK6877_12.0
+ro.fota.type=phone
+ro.fota.app=5
+ro.fota.battery=30
+ro.boot.vendor.overlay.theme=com.umidigi.update.overlay
+ro.fota.oem=sunritel_MTK_12.0
+ERROR: model do not exist in system/build.prop,Please define it
