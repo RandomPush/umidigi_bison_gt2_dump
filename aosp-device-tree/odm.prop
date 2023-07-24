@@ -1,0 +1,6 @@
+ro.boot.vendor.overlay.theme=com.umidigi.update.overlay
+ro.fota.app=5
+ro.fota.battery=30
+ro.fota.oem=sunritel_MTK_12.0
+ro.fota.platform=MTK6877_12.0
+ro.fota.type=phone

@@ -1,0 +1,14 @@
+# sys_mssi_64_cn-user 12 SP1A.210812.016 1651754000 release-keys
+- manufacturer: umidigi
+- platform: mt6785
+- codename: BISON_GT2
+- flavor: sys_mssi_64_cn-user
+- release: 12
+- id: SP1A.210812.016
+- incremental: 1651754000
+- tags: release-keys
+- fingerprint: UMIDIGI/BISON_GT2_EEA/BISON_GT2:12/SP1A.210812.016/1651754000:user/release-keys
+- is_ab: true
+- brand: UMIDIGI
+- branch: sys_mssi_64_cn-user-12-SP1A.210812.016-1651754000-release-keys
+- repo: umidigi_bison_gt2_dump

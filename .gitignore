@@ -1,0 +1,6 @@
+vendor/media/license.lic
+product/app/WebViewGoogle/WebViewGoogle.apk
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/Messages/Messages.apk
+product/priv-app/GmsCore/GmsCore.apk
+system/system/system_ext/apex/com.android.vndk.v30.apex
